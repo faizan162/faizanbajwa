@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.left{
+    background-color: cadetblue;
+}
+.right{
+    background-color: dodgerblue;
+}
